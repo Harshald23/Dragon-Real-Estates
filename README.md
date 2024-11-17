@@ -5,7 +5,6 @@
 Overview:
 
     The Dragon Real Estate Price Predictor is built using Python and scikit-learn. It processes real estate data to train a model capable of predicting property prices. The project focuses on:
-    
     - Data preprocessing (handling missing values, feature scaling).
     - Model training and evaluation using cross-validation.
     - Saving the trained model for future use.
